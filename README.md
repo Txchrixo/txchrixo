@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/ySEkWvDmR0AqICSNTO/giphy.gif?cid=6c09b9521pv7hk5yn061xmz0wtgbjos8n268lfabnxjz3mnq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Gif">
+</p>
 <!--
 **Txchrixo/txchrixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
